@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+    color: #718096;
+}
+body {
+    font-family: "Inter";
+}
+
+header {
+    height: 30px 0;
+    padding: 20px;
+}
+
+
+.logo {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.search img {
+    margin-right: 10px;
+}
+
+.search input {
+    background: #fff;
+    border: none;
+    font-size: 16px;
+    line-height: 19px;
+    color: #718096;
+}
+
+.links {
+    align-items: center;
+}
+
+.links a {
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+.links a:hover {
+    color: #718096;
+}
+.contant {
+    height: 467px;
+    background: #FBFBFB;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 73px;
+    display: flex;
+    align-items: center;
+    padding-left:93px;
+    justify-content: space-evenly;
+}
+.more {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.magic{
+    height: 243px;
+    width: 966px;
+    border: 1px solid #E2E2E2;
+    margin: 11px 93px 55px 93px;
+    line-height: normal;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    margin-top: 50;
+    size: 20px;
+    font-style:normal;
+}
+.magic-page{
+    float: right;
+    margin:none;
+}
+
+
+
+.firstchem {
+    display: flex;
+}
+
+.secondchem{
+    display: flex;
+
+}
+.d-flex{
+    margin-left: center;
+    margin-right: center;
+    stile:normal;
+}
+.one{
+    width:300px;
+    height:380px;
+    background:#FFFFFF;
+    border:2px solid #C0BDBD;
+    margin: 1px 33px 43px 93px;
+    max-width: max-content;
+    justify-content: center;
+    font-style:normal;
+    margin-top: 50;
+    
+}
+.text22{
+    padding: 12px;
+}
+.two{
+    width:300px;
+    height:382px;
+    background:#FFFFFF;
+    border:2px solid #C0BDBD;
+    margin: 1px 33px 43px 33px;
+    font-style: normal;
+    
+}
+.three{
+    width:300px;
+    height:382px;
+    background:#FFFFFF;
+    border:2px solid #C0BDBD;
+    margin: 1px 93px 43px 33px;
+    font-style: normal;
+}
+.four{
+    width:300px;
+    height:382px;
+    background:#FFFFFF;
+    border:2px solid #C0BDBD;
+    margin: 1px 33px 43px 93px;
+    font-style: normal;
+}
+.fives{
+    width:300px;
+    height:382px;
+    background:#FFFFFF;
+    border:2px solid #C0BDBD;
+    margin: 1px 33px 43px 33px;
+    font-style: normal;
+}
+.six{
+    width:300px;
+    height:382px;
+    background:#FFFFFF;
+    border:2px solid #C0BDBD;
+    margin: 1px 93px 43px 33px;
+    font-style: normal;
+}
+
+.chemodan {
+    display:flex;
+}
+
+.box {
+    justify-content: center;
+}
